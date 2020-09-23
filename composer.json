@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/adminmegafilter",
+    "name": "codica-studio/adminmegafilter",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/adminmegafilter",
+    "homepage": "https://github.com/codica-studio/adminmegafilter",
     "license": "MIT",
     "authors": [
         {
