@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/adminmegafilter",
+    "name": "codicastudio/mega-filter",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/adminmegafilter",
+    "homepage": "https://github.com/codicastudio/mega-filter",
     "license": "MIT",
     "authors": [
         {
@@ -31,6 +31,6 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
